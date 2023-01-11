@@ -1,4 +1,6 @@
 hello this is first test file
 
 now commited already 
-this file is in git platform 
+this file is in git platform
+upadted file
+now again I want some changes 
